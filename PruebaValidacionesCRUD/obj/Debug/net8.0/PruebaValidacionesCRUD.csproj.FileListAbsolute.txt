@@ -1,0 +1,14 @@
+/Users/alvaromorales/Downloads/PruebaValidacionesCRUD/bin/Debug/net8.0/PruebaValidacionesCRUD
+/Users/alvaromorales/Downloads/PruebaValidacionesCRUD/bin/Debug/net8.0/PruebaValidacionesCRUD.deps.json
+/Users/alvaromorales/Downloads/PruebaValidacionesCRUD/bin/Debug/net8.0/PruebaValidacionesCRUD.runtimeconfig.json
+/Users/alvaromorales/Downloads/PruebaValidacionesCRUD/bin/Debug/net8.0/PruebaValidacionesCRUD.dll
+/Users/alvaromorales/Downloads/PruebaValidacionesCRUD/bin/Debug/net8.0/PruebaValidacionesCRUD.pdb
+/Users/alvaromorales/Downloads/PruebaValidacionesCRUD/obj/Debug/net8.0/PruebaValidacionesCRUD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alvaromorales/Downloads/PruebaValidacionesCRUD/obj/Debug/net8.0/PruebaValidacionesCRUD.AssemblyInfoInputs.cache
+/Users/alvaromorales/Downloads/PruebaValidacionesCRUD/obj/Debug/net8.0/PruebaValidacionesCRUD.AssemblyInfo.cs
+/Users/alvaromorales/Downloads/PruebaValidacionesCRUD/obj/Debug/net8.0/PruebaValidacionesCRUD.csproj.CoreCompileInputs.cache
+/Users/alvaromorales/Downloads/PruebaValidacionesCRUD/obj/Debug/net8.0/PruebaValidacionesCRUD.dll
+/Users/alvaromorales/Downloads/PruebaValidacionesCRUD/obj/Debug/net8.0/refint/PruebaValidacionesCRUD.dll
+/Users/alvaromorales/Downloads/PruebaValidacionesCRUD/obj/Debug/net8.0/PruebaValidacionesCRUD.pdb
+/Users/alvaromorales/Downloads/PruebaValidacionesCRUD/obj/Debug/net8.0/PruebaValidacionesCRUD.genruntimeconfig.cache
+/Users/alvaromorales/Downloads/PruebaValidacionesCRUD/obj/Debug/net8.0/ref/PruebaValidacionesCRUD.dll
